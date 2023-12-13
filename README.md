@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @michellviu, he studied Computer Science at the University of Havana.
+- 👋 Hi, I’m @michellviu, I study Computer Science at the University of Havana.
 - 👀 I live in Cuba.
 - 🌱 I’m passionate about learning something new every day.
 - 📫 How to contact me: https://t.me/michell_viu
