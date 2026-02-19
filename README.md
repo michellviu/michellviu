@@ -6,20 +6,16 @@
 ## 🛠️ Skills
 
 ### Programming Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=cs,graphql,python,rust,latex&theme=light)](https://skillicons.dev)
 
 ### Frameworks and Technologies
-![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,django&theme=light)](https://skillicons.dev)
 
 ### Databases
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=light)](https://skillicons.dev)
 
 ### Tools & Development Environments
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker,postman&theme=light)](https://skillicons.dev)
 
 <!---
 michellviu/michellviu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
