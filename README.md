@@ -9,10 +9,10 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,graphql,python,rust,latex&theme=light)](https://skillicons.dev)
 
 ### Frameworks and Technologies
-[![My Skills](https://skillicons.dev/icons?i=dotnet,django&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,django,fastapi&theme=light)](https://skillicons.dev)
 
 ### Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,redis&theme=light)](https://skillicons.dev)
 
 ### Tools & Development Environments
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker,postman&theme=light)](https://skillicons.dev)
